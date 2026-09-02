@@ -1,3 +1,4 @@
+num = 28
 num = 30
 num1 =26
 if num > 1:
@@ -9,3 +10,6 @@ if num > 1:
        print(f"{num} is a prime number")
 else:
    print(f"{num} is not a prime number")
+
+
+hehe
